@@ -1,27 +1,19 @@
-# CosmicTicTacToe
+# COSMIC GRID 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
+![demo](https://raw.githubusercontent.com/bachiramiri/cosmic-grid/blob/master/images/demo.PNG)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Live DEMO
+You can try it at this link : //TODO
 
-## Code scaffolding
+## Why ?
+The purpose of this repos si mainly out of frustration watching tutorials having a static 3x3 grid for their examples.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+My approch for square was simple : i mainly focused on the grid css utility wich can be defined by % on 'grid-template-columns', that, i get by a dedicated function that returns 100 divided by side size
 
-## Build
+So it can be wrapped to : 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![approch](https://raw.githubusercontent.com/bachiramiri/cosmic-grid/blob/master/images/approach.PNG)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Dependency 
+//TODO
