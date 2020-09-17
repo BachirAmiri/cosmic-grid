@@ -1,6 +1,6 @@
 # COSMIC GRID 
 
-![demo](https://raw.githubusercontent.com/BachirAmiri/cosmic-grid/master/images/demo.PNG)
+![demo](https://raw.githubusercontent.com/BachirAmiri/cosmic-grid/master/images/grid-demo-x.gif)
 
 
 ## Live DEMO
