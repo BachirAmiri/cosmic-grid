@@ -1,0 +1,10 @@
+<main
+  [ngStyle]="{
+    'grid-row': sideSize,
+    'grid-colum': sideSize,
+    'grid-template-columns':
+      'repeat(auto-fill, minmax(' + getPercentage() + ', 1fr))'
+  }"
+>
+  <app-square *ngFor="let item of items"></app-square>
+</main>

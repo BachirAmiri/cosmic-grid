@@ -1,0 +1,16 @@
+<nb-layout>
+  <nb-layout-header fixed>
+    <H2 style="text-align: center; width: 50%">{{ title }}</H2>
+    <ng5-slider [(value)]="size" [options]="options"></ng5-slider>
+  </nb-layout-header>
+
+  <nb-layout-column>
+    <app-board [receivedSize]="this.size"></app-board>
+    <router-outlet></router-outlet>
+  </nb-layout-column>
+
+  <nb-layout-footer fixed>
+    Made with &nbsp;<nb-icon nbPrefix icon="music-outline" pack="eva"></nb-icon
+    >&nbsp; and ... boredom i guess
+  </nb-layout-footer>
+</nb-layout>
