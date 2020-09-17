@@ -1,6 +1,6 @@
 # COSMIC GRID 
 
-![demo](https://raw.githubusercontent.com/bachiramiri/cosmic-grid/blob/master/images/demo.PNG)
+![demo](https://raw.githubusercontent.com/BachirAmiri/cosmic-grid/master/images/demo.PNG)
 
 
 ## Live DEMO
@@ -13,7 +13,7 @@ My approch for square was simple : i mainly focused on the grid css utility wich
 
 So it can be wrapped to : 
 
-![approch](https://raw.githubusercontent.com/bachiramiri/cosmic-grid/blob/master/images/approach.PNG)
+![approch](https://raw.githubusercontent.com/BachirAmiri/cosmic-grid/master/images/approach.PNG)
 
 ## Dependency 
 //TODO
